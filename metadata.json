@@ -1,0 +1,5 @@
+{
+  "name": "NoteShare",
+  "description": "A minimal, collaborative note-sharing platform for college students to upload, rate, and discover academic resources.",
+  "requestFramePermissions": []
+}
